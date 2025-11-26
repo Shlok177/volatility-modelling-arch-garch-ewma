@@ -44,45 +44,7 @@ Yesterday’s variance (GARCH term)
 
 GARCH captures volatility persistence far better than ARCH.
 
-3. EWMA (RiskMetrics)
-
-Variance formula:
-
-𝜎
-𝑡
-2
-=
-𝜆
-𝜎
-𝑡
-−
-1
-2
-+
-(
-1
-−
-𝜆
-)
-𝑟
-𝑡
-−
-1
-2
-σ
-t
-2
-	​
-
-=λσ
-t−1
-2
-	​
-
-+(1−λ)r
-t−1
-2
-	​
+3. EWMA (RiskMetrics)​
 
 
 Simple, fast, widely used by risk desks.
