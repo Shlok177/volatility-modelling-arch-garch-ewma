@@ -1,5 +1,5 @@
 # volatility-modelling-arch-garch-ewma
-A complete volatility modeling project applying ARCH(1), GARCH(1,1), and EWMA (RiskMetrics) to 3-year S&amp;P 500 returns.
+A volatility modeling project applying ARCH(1), GARCH(1,1), and EWMA (RiskMetrics) to 3-year S&amp;P 500 returns.
 
 
 Volatility Modeling Using ARCH, GARCH, and EWMA
